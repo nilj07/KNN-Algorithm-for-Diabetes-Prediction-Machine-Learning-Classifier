@@ -67,4 +67,4 @@ The **KNN algorithm** is a supervised learning technique used for classification
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/KNN-Diabetes-Prediction.git
+   git clone https://github.com/nilj07/KNN-Diabetes-Prediction.git
